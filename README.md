@@ -6,7 +6,7 @@
 
 ###
 
-
+<div align="left">
 <h2>Programming Languages</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
 <img width="12" />
