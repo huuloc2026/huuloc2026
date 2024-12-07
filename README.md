@@ -1,6 +1,6 @@
 ### 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Huu+Loc+Imam!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Huu+Loc!;" />
 </h1>
 <h3 align="center">Transforming coffee into code. </br> Passionate Software Engineer from Vietnam, always learning and building!</h3>
 <div id="badges" align="center">
