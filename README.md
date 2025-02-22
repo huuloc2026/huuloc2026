@@ -87,5 +87,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo" />
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huuloc2026&show_icons=true&locale=en&layout=compact&langs_count=5&hide=javascript,ejs,html" alt="huuloc2026" /></p>
-###
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huuloc2026&show_icons=true&locale=en&layout=compact&hide=javascript,ejs,html" alt="huuloc2026" /></p>
