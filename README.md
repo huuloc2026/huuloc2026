@@ -5,7 +5,7 @@
 <h3 align="center">
     Transforming coffee into code ☕. <br> Passionate Software Engineer from Vietnam 🇻🇳, always learning and building! 🐧
 </h3>
-
+<!-- 
 <div id="badges" align="center">
     <a href="mailto:huuloc2026@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -16,8 +16,8 @@
     <a href="https://facebook.com/helloimloc" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
-    <br/>
-</div>
+    <br/> 
+</div>-->
 
 ###
 
